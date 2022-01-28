@@ -9,7 +9,7 @@
     "request-promise": "^4.2.1",
     "md5": "^2.2.1",
     "moment-timezone": "^0.5.13",
-    "bottleneck": "^1.15.1"
+    "bottleneck": "^2.19.5"
   },
   "private": true
 }
